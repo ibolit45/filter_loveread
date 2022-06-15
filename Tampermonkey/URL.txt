@@ -1,0 +1,5 @@
+https://raw.githack.com/
+=>
+https://raw.githubusercontent.com/ibolit45/filter_loveread/main/index/js/min/books.js
+=
+https://rawcdn.githack.com/ibolit45/filter_loveread/64ea2ef434e220607f1fa64c2292f018af2e07fe/test/js/min/books.js

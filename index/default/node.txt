@@ -1,0 +1,17 @@
+﻿/* libs
+jquery 3.4.1
+bootstrap 4.3.1
+fontawesome 5.10.2
+OptimizedHTML 4
+OwlCarousel 2.3.4
+gulp 4.0.2
+*/
+/* git
+git merge * --squash //Слить ветку без коммитов
+git reset HEAD~1 --hard //Удалить до коммита
+git branch -D * //Удалить ветку
+git checkout -b"" //Создать ветку
+git log --oneline //Журнал
+git add . //Добавить всё
+git commit -m"" //Коментарий
+git stash clear //Очистить буфер git
